@@ -1,0 +1,13 @@
+# systemd service about auto-start coin.service after booting
+# path and command: sudo nano /lib/systemd/system/coin.service
+
+[Unit]
+Description=RetroPie-Coin Service
+After=multi-user.target
+
+[Service]
+Type=idle
+ExecStart=/usr/bin/python /home/pi/RetroPie-Coin/retropie-coin.py
+
+[Install]
+WantedBy=multi-user.target
