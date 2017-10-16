@@ -5,7 +5,6 @@ Creation Date: Oct 15, 2017
 Cafe         : http://cafe.naver.com/raspigamer
 Blog         : http://rasplay.org, http://forums.rasplay.org/, https://zzeromin.tumblr.com/
 Github       : https://github.com/rasplay, https://github.com/zzeromin
-Cafe         : http://cafe.naver.com/raspigamer
 Thanks to    : Team Tentacle
 Free and open for all to use. But put credit where credit is due.
 """
