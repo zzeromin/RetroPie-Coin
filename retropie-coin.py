@@ -23,9 +23,9 @@ GPIO.setup(SELECT, GPIO.OUT)
 try:
 	while True:
 		if GPIO.input(SENSOR) == GPIO.LOW:
-			GPIO.output(SELECT, GPIO.LOW)
-		else:
 			GPIO.output(SELECT, GPIO.HIGH)
+		else:
+			GPIO.output(SELECT, GPIO.LOW)
 			print "Coin detected"
 			time.sleep(0.05)
 
