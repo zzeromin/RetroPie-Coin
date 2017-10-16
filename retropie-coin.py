@@ -13,9 +13,9 @@ Free and open for all to use. But put credit where credit is due.
 import RPi.GPIO as GPIO
 import time
 
-# check your bcm pin number at https://pinout.xyz/
-SELECT = 10
-SENSOR = 21
+# check your SELECT gpio(BCM) pin number at https://pinout.xyz/
+SELECT = 10 # GPIO BCM Number
+SENSOR = 21 # GPIO BCM Number
 
 GPIO.setmode(GPIO.BCM)
 GPIO.setup(SENSOR, GPIO.IN)
