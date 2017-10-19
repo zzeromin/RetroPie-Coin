@@ -1,5 +1,5 @@
 # RetroPie-Coin
-RetroPie-Coin
+Simple Coin Acceptor for RetroPie using Photo Interrupter.
 
 ## Install
 Install below:
@@ -9,3 +9,6 @@ cd RetroPie-Coin/
 chmod 755 setup.sh
 sudo ./setup.sh
 </code></pre>
+
+## Raspberry Pi I2C GPIO Pinout
+![Alt text](https://imgur.com/a/CoQqN)
