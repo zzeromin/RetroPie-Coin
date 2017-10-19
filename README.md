@@ -11,4 +11,4 @@ sudo ./setup.sh
 </code></pre>
 
 ## Raspberry Pi I2C GPIO Pinout
-![Alt text](https://imgur.com/a/CoQqN)
+![Alt text](https://i.imgur.com/a/CoQqN)
