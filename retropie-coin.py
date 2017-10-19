@@ -1,5 +1,5 @@
 """
-Title        : RetroPie-Coin.py
+Title        : RetroPie-Coin
 Author       : zzeromin, member of Raspberrypi Village and Tentacle Team
 Creation Date: Oct 15, 2017
 Cafe         : http://cafe.naver.com/raspigamer
