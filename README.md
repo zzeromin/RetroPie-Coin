@@ -10,5 +10,5 @@ chmod 755 setup.sh
 sudo ./setup.sh
 </code></pre>
 
-## Raspberry Pi I2C GPIO Pinout
+## Raspberry Pi GPIO Pinout
 <img src="https://i.imgur.com/JizD7iz.png" width="80%" height="80%">
